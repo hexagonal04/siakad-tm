@@ -1,10 +1,6 @@
 
 # Aplikasi SIAKAD (Kurikulum 2013)
 
-### Demo Aplikasi
-- Alamat: https://siakadtm.net
-- Level Administrator, username: admin, password: super90
-
 ### Petunjuk Install
 1. Download aplikasi
 2. Buat database, import dari folder `__db`
